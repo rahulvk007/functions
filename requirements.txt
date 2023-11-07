@@ -4,3 +4,7 @@
 
 azure-functions
 flask
+waitress
+tox==3.*
+flask-sqlalchemy
+
